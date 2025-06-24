@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>I am Taj Uddin, a Full Stack Web Developer from Bangladesh.  <br>I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.  <br>I am passionate about building dynamic and interactive web applications using technologies like React, Node.js, and MongoDB.  <br>I enjoy learning new tools and frameworks to enhance my skills and deliver better solutions.<br>
+<br><br>I am Taj Uddin, a Full Stack Web Developer from Bangladesh.  <br>I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.  <br>I am passionate about building dynamic and interactive web applications using technologies like React, Node.js, and MongoDB.  <br>I enjoy learning new tools and frameworks to enhance my skills and deliver better solutions.<br>
 
 
 ## 🌐 Socials:
