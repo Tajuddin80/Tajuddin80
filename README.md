@@ -1,4 +1,4 @@
-<img src='https://github.com/Tajuddin80/Tajuddin80/blob/main/git%202.png' width='100%' />
+<img src='' width='100%' />
 
 # 💫 About Me
 
