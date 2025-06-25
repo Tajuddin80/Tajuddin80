@@ -43,6 +43,8 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query Badge"/>
+
 </div>
 
 ### 🔧 Backend & Frameworks  
@@ -73,7 +75,9 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pixso-121212?style=for-the-badge&logoColor=white&logo=pixso" alt="Pixso Badge"/>
 </div>
+
 
 ### 📚 Others  
 <div align="center">
