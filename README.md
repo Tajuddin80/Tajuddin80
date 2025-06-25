@@ -1,4 +1,4 @@
-<img src='https://github.com/Tajuddin80/Tajuddin80/blob/main/github.png' width='100%' />
+<img src='https://github.com/Tajuddin80/Tajuddin80/blob/main/git%202.png' width='100%' />
 
 # 💫 About Me
 
@@ -13,7 +13,8 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tajuddin80)  
 [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/TajuddinCSE)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tajuddin.cse.dev@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tajuddin80)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tajuddin.cse.dev@gmail.com)  
 
 ---
 
@@ -85,10 +86,12 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tajuddin80&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tajuddin80&theme=dark&hide_border=false" width="48%"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tajuddin80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tajuddin80&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tajuddin80&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tajuddin80&theme=dark&hide_border=false&layout=compact&langs_count=6&exclude_repo=portfolio-site,static-html" width="48%" />
 </div>
+
+
 
 ---
 
