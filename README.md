@@ -9,6 +9,16 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 
 ---
 
+### 🚀 Currently I'm:
+
+-  Exploring **Next.js** and **TanStack Query**
+-  Working on a **Parcel Shifting Project(Parcel Point)**
+-  Building reusable components using **React + TailwindCSS**
+-  Writing tech blogs on [Medium](https://medium.com/@tajuddin80)
+-  Practicing **DSA and problem solving**
+
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tajuddin80)  
