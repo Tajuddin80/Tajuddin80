@@ -54,8 +54,9 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 
 # Current Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tajuddin80&theme=react&hide_border=true&background=0D1117&stroke=A6DA9A&fire=A6DA9A&sideLabels=A6DA9A&currStreakNum=A6DA9A&ring=A6DA9A&currStreakLabel=A6DA9A&sideNums=A6DA9A" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tajuddin80&theme=react&hide_border=true&background=0D1117&title_color=A6DA9A&text_color=A6DA9A&icon_color=A6DA9A" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tajuddin80&theme=react" width="48%" />
+      <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Tajuddin80&theme=react" width="48%" />
 </div>
 
 <br/>
