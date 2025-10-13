@@ -13,8 +13,7 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 
 #  Currently I'm:
 
--  Exploring **Next.js** and **TanStack Query**
--  Working on a **Building management project (NEXORA)**
+-  Working on a **Healthcare Platform**
 -  Writing tech blogs on [Medium](https://medium.com/@tajuddin80)
 -  Practicing **DSA and problem solving**
 
