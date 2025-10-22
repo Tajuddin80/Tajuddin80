@@ -1,13 +1,33 @@
 <img src='https://github.com/Tajuddin80/Tajuddin80/blob/main/github%20cover.png' width='100%' />
 
 #  About Me
+<p>
+  Hi, I’m <strong>Taj Uddin</strong>, a 
+  <a href="https://portfolio-tajuddin.netlify.app/" target="_blank" style="margin-left: 5px; font-weight: bold; font-size: 16px;">
+    Full Stack Web Developer
+  </a> from Bangladesh.
+</p>
 
-I am Taj Uddin, a <a href="https://portfolio-tajuddin.netlify.app/" target="_blank" style="margin-left: 10px; font-weight: bold; font-size: 16px;">
-   Full Stack Web Developer
-  </a> from Bangladesh.  
-I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.  
-I am passionate about building dynamic and interactive web applications using technologies like React/Next.js, Node.js, and MongoDB.  
-I enjoy learning new tools and frameworks to enhance my skills and deliver better solutions.
+<p>
+  I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.
+    <br/>
+  I am passionate about building dynamic and interactive web applications using a wide range of technologies. 
+    <br/>
+    <br/>
+  <strong>Languages:</strong> C, C++, Python, Java, JavaScript, TypeScript, PHP, Go.
+   <br/>
+  <strong>Frontend:</strong> HTML, CSS, Tailwind, Bootstrap, React, Next.js, Redux, Material UI, shadcn UI.  
+   <br/>
+  <strong>Backend & Databases:</strong> Node.js, Express, MongoDB, Mongoose, PostgreSQL, MySQL, Firebase, Prisma.  
+    <br/>
+  <strong>Tools & Platforms:</strong> npm, Vite, Git, GitHub, Docker, Nginx, Linux, AWS, Postman, VS Code, Jest, Vercel, Netlify.  
+    <br/>
+  <strong>AI Tools:</strong> ChatGPT, GitHub Copilot, Claude, Grok, Cursor, Deepseek.
+</p>
+
+<p>
+  I enjoy exploring new tools and frameworks to continuously enhance my skills and deliver efficient, scalable, and innovative solutions.
+</p>
 
 
 #  Currently I'm:
@@ -18,6 +38,7 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 
 
 # Connect with me
+<br/>
 <div align="center">
   <a href="https://linkedin.com/in/tajuddin80" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -51,6 +72,7 @@ I enjoy learning new tools and frameworks to enhance my skills and deliver bette
 </div>
 
 # Learning
+<br/>
    <div align="center">
   <img src="https://skillicons.dev/icons?i=golang,jest,docker,nginx,linux,aws" />
   <br/>
