@@ -80,11 +80,18 @@
 
 # Current Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tajuddin80&theme=react" width="48%" />
-      <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Tajuddin80&theme=react" width="48%" />
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Tajuddin80&theme=midnight-purple&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
 </div>
 <br/>
+
+# Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 [![](https://visitcount.itsvg.in/api?id=Tajuddin80&icon=0&color=0)](https://visitcount.itsvg.in)
