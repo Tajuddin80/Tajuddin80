@@ -81,7 +81,8 @@
 # Current Stats
 <div align="center">
     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Tajuddin80&theme=midnight-purple&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
+ <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Tajuddin80&theme=midnight-purple&border_radius=4.7&mode=weekly)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Tajuddin80)](https://git.io/streak-stats)
 </div>
 <br/>
 
