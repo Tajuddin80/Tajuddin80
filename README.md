@@ -14,7 +14,7 @@
   I am passionate about building dynamic and interactive web applications using a wide range of technologies. 
     <br/>
     <br/>
-  <strong>Languages:</strong> C, C++, Python, Java, JavaScript, TypeScript, PHP, Go.
+  <strong>Languages:</strong> C, C++, Python, Java, JavaScript, TypeScript, PHP, Go, shopify liquid.
    <br/>
   <strong>Frontend:</strong> HTML, CSS, Tailwind, Bootstrap, React, Next.js, Redux, Material UI, shadcn UI.  
    <br/>
