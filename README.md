@@ -93,7 +93,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tajuddin80&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Tajuddin80)  
 
