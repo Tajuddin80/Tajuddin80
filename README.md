@@ -22,7 +22,7 @@
     <br/>
   <strong>Tools & Platforms:</strong> npm, Vite, Git, GitHub, Docker, Nginx, Linux, AWS, Postman, VS Code, Jest, Vercel, Netlify.  
     <br/>
-  <strong>AI Tools:</strong> ChatGPT, GitHub Copilot, Claude, Grok, Cursor, Deepseek.
+  <strong>AI Tools:</strong> ChatGPT, GitHub Copilot, Claude, Grok, Antigravity, Cursor, Deepseek.
 </p>
 
 <p>
