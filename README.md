@@ -1,4 +1,4 @@
-<!-- <img src='https://github.com/Tajuddin80/Tajuddin80/blob/main/github%20cover.png' width='100%' /> -->
+<img src='https://res.cloudinary.com/ywplb4ys/image/upload/v1785405273/github_banner_pkv7bs.png' width='100%' /> 
 
 #  About Me
 <p>
