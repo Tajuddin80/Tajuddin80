@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.
+  I have completed my B.Sc. in Computer Science and Engineering at Green University of Bangladesh.
     <br/>
   I am passionate about building dynamic and interactive web applications using a wide range of technologies. 
     <br/>
