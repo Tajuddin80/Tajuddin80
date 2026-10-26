@@ -1,5 +1,15 @@
 <!-- <img src='https://res.cloudinary.com/ywplb4ys/image/upload/v1785405273/github_banner_pkv7bs.png' width='100%' />  -->
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tajuddin80/Tajuddin80/main/card-dark.svg" alt="GitHub Profile Card" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tajuddin80/Tajuddin80/main/grid-dark.svg" alt="GitHub Contribution Grid" width="100%" />
+</div>
+
 #  About Me
 <p>
   Hi, I’m <strong>Taj Uddin</strong>, a 
@@ -52,32 +62,6 @@
 </div>
 
 
-# Languages and Tools
-<br/>
-<!-- Skill icons row (optional) -->
-<div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,php" />
-  <br/>
-  <!-- Frontend Frameworks / Libraries -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,materialui" />
-  <br/>
-  <!-- Backend / Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,prisma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose" />
-  <br/>
-  <!-- Tools / Others -->
-  <img src="https://skillicons.dev/icons?i=npm,vite,git,github,vercel,netlify,postman,vscode" />
-  <br/>
-</div>
-
-# Learning
-<br/>
-   <div align="center">
-  <img src="https://skillicons.dev/icons?i=golang,jest,docker,nginx,linux,aws" />
-  <br/>
-</div>
-
 # Current Stats
 <div align="center">
     
@@ -85,6 +69,11 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Tajuddin80)](https://git.io/streak-stats)
 </div>
 <br/>
+
+
+<br/>
+
+
 
 <!-- Contribution Snake -->
 
@@ -94,8 +83,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> -->
 
+<!-- 
 ![GitHub metrics](https://metrics.lecoq.io/Tajuddin80)  
 
 [![](https://visitcount.itsvg.in/api?id=Tajuddin80&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
